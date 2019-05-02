@@ -1,6 +1,4 @@
-"""
-Edit Day : 2019/04/23
-"""
+#Edit Day : 2019/04/23
 
 from random import shuffle
 
