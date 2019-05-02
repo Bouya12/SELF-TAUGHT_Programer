@@ -16,7 +16,7 @@ class Scraper:
         sp = BeautifulSoup(html, parser)
         for tag in sp.find_all("a"):
             url = tag.get("href")
-            f = f + url + "\n"
+            f = f + url + "\n" 
             if url is None:
                 continue
             elif "html" in url:
@@ -27,5 +27,5 @@ class Scraper:
         file.write(f)
         file.close
             
-news = "https://news.google.com/"
+news = "https://www.itmedia.co.jp/news/"
 Scraper(news).scrape()
