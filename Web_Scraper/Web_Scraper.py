@@ -10,13 +10,13 @@ class Scraper:
         
     def scrape(self):
         r = urllib.request.urlopen(self.site)
-        f = "\n"
+        f = "Start \n"
         html = r.read()
         parser = "html.parser"
         sp = BeautifulSoup(html, parser)
         for tag in sp.find_all("a"):
             url = tag.get("href")
-            f = f + url + "\n" 
+            f += url + "\n" 
             if url is None:
                 continue
             elif "html" in url:

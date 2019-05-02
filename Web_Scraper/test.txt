@@ -1,4 +1,4 @@
-
+Start 
 //www.itmedia.co.jp/news/
 https://www.itmedia.co.jp/news/subtop/bursts/
 https://www.itmedia.co.jp/news/series/
@@ -35,8 +35,8 @@ https://www.itmedia.co.jp/news/articles/1905/01/news033.html
 //www.itmedia.co.jp/news/subtop/lifestyle/
 //www.itmedia.co.jp/news/subtop/archive/
 https://www.itmedia.co.jp/news/articles/1905/01/news005.html
-https://www.itmedia.co.jp/news/articles/1905/01/news023.html
 https://www.itmedia.co.jp/news/articles/1905/02/news006.html
+https://www.itmedia.co.jp/news/articles/1905/01/news023.html
 https://www.itmedia.co.jp/news/articles/1905/01/news024.html
 https://www.itmedia.co.jp/news/articles/1905/01/news022.html
 https://www.itmedia.co.jp/news/articles/1904/01/news088.html
@@ -55,8 +55,8 @@ https://mailmag.itmedia.co.jp/backnumbers/na/20190424_0.html
 //www.itmedia.co.jp/pcuser/articles/1903/29/news100.html
 //www.itmedia.co.jp/topics/1707/eos/
 https://www.itmedia.co.jp/news/articles/1905/01/news005.html
-https://www.itmedia.co.jp/news/articles/1905/01/news023.html
 https://www.itmedia.co.jp/news/articles/1905/02/news006.html
+https://www.itmedia.co.jp/news/articles/1905/01/news023.html
 https://www.itmedia.co.jp/news/articles/1905/01/news024.html
 https://www.itmedia.co.jp/news/articles/1905/01/news022.html
 https://www.itmedia.co.jp/news/articles/1904/01/news088.html
