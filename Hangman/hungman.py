@@ -1,6 +1,4 @@
-"""
-Edit Day : 2019/04/22
-"""
+#Edit Day : 2019/04/22
 
 def hangman(word):
     wrong = 0
